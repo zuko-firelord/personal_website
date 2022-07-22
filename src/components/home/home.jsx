@@ -19,9 +19,7 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis id
-          quos deserunt, maxime sint sunt tempore quidem ad praesentium itaque,
-          aspernatur, magnam culpa iste adipisci?
+        I like Blockchain Technology because I like Finance and Coding together. So, this is the best profession for me to create better products for the world.
         </p>
       </h2>
 

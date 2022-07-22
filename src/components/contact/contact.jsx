@@ -9,9 +9,9 @@ function Contact() {
       <h1>Contact Me</h1>
       <div className="contact-links">
         <a
-          href="https://www.youtube.com/channel/UCzoBz4EKrLOvm3L4DDNc_pg"
+          href="#"
           className="contact youtube"
-          target={"blank"}
+          // target={"blank"}
         >
           <AiOutlineYoutube className="icon" />
           <h2>
@@ -20,13 +20,13 @@ function Contact() {
         </a>
 
         <a
-          href="https://wa.link/bywzv3"
+          href="#"
           className="contact whatsapp"
-          target={"blank"}
+          // target={"blank"}
         >
           <AiOutlineWhatsApp className="icon" />
           <h2>
-            whatsapp <span>+233 20 918 2598</span>
+            whatsapp <span>+</span>
           </h2>
         </a>
 
