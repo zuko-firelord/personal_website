@@ -1,8 +1,8 @@
 import "./footer.css";
-import { BsMouse } from "react-icons/bs";
+import { BsMailbox, BsMouse, BsTwitter } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
-import { FaFacebookF } from "react-icons/fa";
-import { TiSocialDribbble } from "react-icons/ti";
+import { FaDiscord, FaGithub, FaLinkedin } from "react-icons/fa";
+import { TiMail, TiSocialDribbble, TiSocialLinkedin } from "react-icons/ti";
 import { TiSocialYoutube } from "react-icons/ti";
 import { TiSocialGithub } from "react-icons/ti";
 
@@ -18,24 +18,24 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="#">
-          <BsInstagram className="social" />
+        <a href="https://twitter.com/Hippy___Trippy">
+          <BsTwitter className="social" />
         </a>
-        <a href="#">
+        <a href="https://discord.com/users/859514610363924520">
           {" "}
-          <FaFacebookF className="social" />
+          <FaDiscord className="social" />
         </a>
-        <a href="#">
+        <a href="https://www.linkedin.com/in/sachin-tedwa">
           {" "}
-          <TiSocialDribbble className="social" />
+          <FaLinkedin className="social" />
         </a>
 
-        <a href="#">
-          <TiSocialYoutube className="social" />
+        <a href="https://github.com/TedwaSachin123">
+          <FaGithub className="social" />
         </a>
 
-        <a href="#">
-          <TiSocialGithub className="social" />
+        <a href="mailto:tedwasachin123@gmail.com">
+          <BsMailbox className="social" />
         </a>
       </div>
     </div>

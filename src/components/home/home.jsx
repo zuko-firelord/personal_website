@@ -19,7 +19,8 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-        I like Blockchain Technology because I like Finance and Coding together. So, this is the best profession for me to create better products for the world.
+        I am Sachin Tedwa, an undergraduate at Symbiosis Pune, full-stack Blockchain developer, Trader, a keen reader and a fan of personal growth.<br/>
+        Since 2017 I have been exploring and experimenting with blockchain technologies. I am fascinated by the ability to deploy permissionless, immutable code across a decentralised p2p network.
         </p>
       </h2>
 

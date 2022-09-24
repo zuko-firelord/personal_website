@@ -1,7 +1,5 @@
 import "./contact.css";
-import { AiOutlineYoutube } from "react-icons/ai";
-import { AiOutlineWhatsApp } from "react-icons/ai";
-import { AiOutlineInstagram } from "react-icons/ai";
+import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from "react-icons/ai";
 
 function Contact() {
   return (
@@ -9,31 +7,31 @@ function Contact() {
       <h1>Contact Me</h1>
       <div className="contact-links">
         <a
-          href="#"
-          className="contact youtube"
+          href="https://github.com/TedwaSachin123"
+          className="contact github"
           // target={"blank"}
         >
-          <AiOutlineYoutube className="icon" />
+          <AiOutlineGithub className="icon" />
           <h2>
-            youtube <span>Creative Ambition</span>
+            github <span>Creative Ambition</span>
           </h2>
         </a>
 
         <a
-          href="#"
-          className="contact whatsapp"
+          href="mailto:tedwasachin123@gmail.com"
+          className="contact mail"
           // target={"blank"}
         >
-          <AiOutlineWhatsApp className="icon" />
+          <AiOutlineMail className="icon"/>
           <h2>
-            whatsapp <span>+</span>
+            Email <span>TEDWASACHIN123@GMAIL.COM</span>
           </h2>
         </a>
 
-        <a href="#" className="contact instagram">
-          <AiOutlineInstagram className="icon" />
+        <a href="https://www.linkedin.com/in/sachin-tedwa/" className="contact linkedin">
+          <AiOutlineLinkedin className="icon" />
           <h2>
-            instagram <span>_Creative_Ambition_</span>
+            Linkedin <span></span>
           </h2>
         </a>
       </div>

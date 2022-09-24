@@ -37,13 +37,25 @@
 }
 
 .bgimg1{
-  background: rgb(5, 7, 37) url(../props/firstlook.jpg);
-}
-.bgimg2{
-  background: rgb(5, 7, 37) url(../props/todo1\ -\ Laptop.png);
+  background: rgb(5, 7, 37) url(../props/blockvoice_img.png);
 }
 .bgimg3{
-  background: rgb(5, 7, 37) url(../props/img3.jpg);
+  background: rgb(5, 7, 37) url(../props/todo1\ -\ Laptop.png);
+}
+.bgimg2{
+  background: rgb(5, 7, 37) url(../props/defi_quant.jpg);
+}
+
+.bgimg4{
+  background: rgb(5, 7, 37) url(../props/firstlook.jpg);
+}
+
+.bgimg5{
+  background: rgb(5, 7, 37) url(../props/personal_website.jpg);
+}
+
+.bgimg6{
+  background: rgb(5, 7, 37) url(../props/bitcointodayprice.png);
 }
 
 .members-container .member .member-info {
@@ -76,11 +88,9 @@
   position: absolute;
   transition: 0.1s ease;
 }
-/* .git{
-  margin-left: 200px;
-  background-color: red;
-
-} */
+.git{
+  margin-left: 150px;
+}
 .members-container .member .member-info .contact-member span {
   text-transform: capitalize;
 }
@@ -160,6 +170,10 @@
     top: -55px;
     right: 10px;
   }
+
+  .git{
+    margin-left: 150px;
+  }
 }
 
 @media (max-width: 500px) {
@@ -232,6 +246,9 @@
     top: -55px;
     right: 10px;
   }
+  .git{
+    margin-left: 150px;
+  }
 }
 
 @media (max-width: 420px) {
@@ -303,6 +320,9 @@
     position: absolute;
     top: -55px;
     right: 10px;
+  }
+  .git{
+    margin-left: 150px;
   }
 }
 
@@ -377,6 +397,9 @@
     top: -55px;
     right: 10px;
   }
+  .git{
+    margin-left: 150px;
+  }
 }
 
 @media (max-width: 375px) {
@@ -449,5 +472,8 @@
     position: absolute;
     top: -55px;
     right: 5px;
+  }
+  .git{
+    margin-left: 150px;
   }
 }
