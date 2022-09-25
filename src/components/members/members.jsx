@@ -10,7 +10,7 @@ const Members = () => {
           <h1 className="name">BlockVoice  </h1>
           <h3 className="position">TECH STACK : Polygon, TheGraph, Solidity, Ipfs, React, Ethersjs, Infura, Hardhat </h3>
           <h4 className="about">
-          BlockVoice is a question and answer website for professional and enthusiast programmers built on top of Polygon network and The Graph, that allows users to create, comment and answer videos, without worrying about their privacy.
+          BlockVoice is a question and answer website for professional and enthusiast programmers built on top of Polygon network and The Graph, that allows users to create questions, add comments, and answer them, without worrying about their privacy.
           </h4>
           <a href="https://block-voice.vercel.app/" target="_blank" className="contact-member">
             <span>Project Link</span>

@@ -1,10 +1,7 @@
 import "./footer.css";
 import { BsMailbox, BsMouse, BsTwitter } from "react-icons/bs";
-import { BsInstagram } from "react-icons/bs";
 import { FaDiscord, FaGithub, FaLinkedin } from "react-icons/fa";
-import { TiMail, TiSocialDribbble, TiSocialLinkedin } from "react-icons/ti";
-import { TiSocialYoutube } from "react-icons/ti";
-import { TiSocialGithub } from "react-icons/ti";
+
 
 function Footer() {
   return (
