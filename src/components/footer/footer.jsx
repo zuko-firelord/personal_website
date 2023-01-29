@@ -15,7 +15,7 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="https://twitter.com/Hippy___Trippy">
+        <a href="https://twitter.com/Sachintedwa1">
           <BsTwitter className="social" />
         </a>
         <a href="https://discord.com/users/859514610363924520">
